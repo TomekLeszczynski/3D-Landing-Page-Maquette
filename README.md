@@ -20,4 +20,4 @@ Build with:
 * For full responsiveness, the project should contain queries with different iframe setups for each group of screen dimmensions
 * The design doesn't include all the proper landing page elements since getting familiar with the Spline tool was the goal
 ## Inspirations & Resources
-*[Spline tool webpage](https://spline.design/#features)
+* [Spline tool webpage](https://spline.design/#features)
