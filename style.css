@@ -1,0 +1,38 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+body {
+	width: 100%;
+	height: 100svh;
+}
+div {
+	position: absolute;
+	bottom: 18%;
+	left: 5%;
+	/* border: 1px solid white; */
+}
+div h1 {
+	color: #fff;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: clamp(1rem, 20vw, 6rem);
+	letter-spacing: 0.1rem;
+}
+p {
+    margin-top: 0.3rem;
+	color: #fff;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: clamp(1rem, 20%, 1.5rem);
+	font-style: italic;
+}
+button {
+	background-color: rgb(255, 0, 128);
+	padding: 1rem 1.5rem;
+	margin-top: 2rem;
+	border-radius: 1.5rem;
+	border: none;
+	color: #fff;
+	text-transform: uppercase;
+	cursor: pointer;
+}
