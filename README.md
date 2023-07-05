@@ -1,5 +1,5 @@
 # Interactive 3D Landing Page Prototype
-![Landing Page maquette screen](./spline screen.jpg)
+![Landing Page maquette screen](spline screen.jpg)
 ## General Info
 3D, interactive and animated Landing Page maquette built with Spline tool. 
 ## Features
